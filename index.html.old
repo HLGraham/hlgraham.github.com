@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+ <head>
+     <meta charset="utf-8">
+     <title>Hannah Graham</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="description" content="Hannah Graham: Graphic Designer">
+     <meta name="author" content="Hannah Graham">
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style type="text/css">
+      body {
+        padding-top: 100px;
+        padding-bottom: 40px;
+      }
+      .center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+     }
+    </style>
+
+ </head>
+ <body>
+
+<div class="row">
+    <div class="span6 center">
+	  <section>
+	  <div class="well">
+		<h3>
+			Hannah Graham
+		</h3>
+		<p>
+			<i class="icon-pencil"></i>
+			&nbsp; Graphic Designer
+		</p>
+	 </div>
+	<div class="row">
+		<div class="span3" style="display: block;">
+			<h4>
+				Portfolio
+			</h4>
+			<p>
+				<a href="#" class="btn btn-success">Download</a>
+			</p>
+		</div>
+		<div class="span3" style="display: block;">
+			<h4>
+				Contact Me
+			</h4>
+			<p>
+			   <ul class="nav nav-list">
+                  <li><a href="mailto:hlgraham@hotmail.co.uk"><i class="icon-envelope"></i> hlgraham@hotmail.co.uk</a></li>
+                  <li><a href="http://www.linkedin.com/profile/view?id=152500246"><i class="icon-list-alt"></i> LinkedIn</a></li>
+               </ul>
+			</p>
+		 </div>
+	    </div>
+	<hr>
+	        <div class="footer">
+          <p class="">©2013 Hannah Graham
+          </p>
+     </section>
+	</div>
+</div>
+   <!--- <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script> --->
+ </body>
+</html>
